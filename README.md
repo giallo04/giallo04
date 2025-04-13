@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giallo04
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me ...
 
